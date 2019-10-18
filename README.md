@@ -7,7 +7,7 @@ Abaixo estão sugestões de rotas que poderão ser usadas no Insomnia.
 
 Para testar precisará rodar o comando yarn dentro do diretório para instalar as dependências, no terminal acesse o diretório do app e execute o comando yarn dev, carregará o projeto no localhost na porta configurada, precisará do Insomnia para ver o funcionamento, pode se usar as configurações listadas abaixo:
 
-**Método GET** - ou configure outra http://localhost:3000/projects
+**Método GET** - http://localhost:3000/projects ou configure outra
 
 Use estrutura JSON no Insomnia Método POST - Request name example: Cria um novo projeto
 
