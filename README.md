@@ -1,4 +1,4 @@
-# App task 🚀
+# App task 🚀🎓
 
 
 Um app em Node e Express para guardar e organizar projetos. Foi meu primeiro desafio realizado na goStack 9  Bootcamp Rocketseat.
@@ -9,14 +9,14 @@ Para testar precisará rodar o comando yarn dentro do diretório para instalar a
 
 **Método GET** - Nome da requisição: Lista Tasks
 
-Use estrutura JSON no Insomnia, utilize a confiração de url abaixo ou outra porta, não esqueça de troca no script também. 
+Url da requisição: http://localhost:3000
 
-http://localhost:3000
+Use estrutura JSON no Insomnia, utilize a confiração de url abaixo ou outra porta, não esqueça de troca no script também. 
 
 
 **Método POST** - Nome da requisição: Cria um novo projeto
 
-http://localhost:3000/projects 
+Url da requisição: http://localhost:3000/projects 
 
 
 *No corpo da requisição use:
@@ -33,7 +33,7 @@ Use estrutura JSON no Insomnia
 
 **Método PUT** - Nome da requisição: Edita o nome do projeto
 
-http://localhost:3000/projects/1
+Url da requisição: http://localhost:3000/projects/1
 
 
 *No corpo da requisição use:
@@ -48,9 +48,11 @@ Use estrutura JSON no Insomnia
 
 **Método POST** - Nome da requisição: Cria uma nova tarefa no projeto
 
-*No corpo da requisição use:
 
-http://localhost:3000/projects/1/tasks
+Url da requisição: http://localhost:3000/projects/1/tasks
+
+
+*No corpo da requisição use:
 
 {
 
@@ -62,6 +64,9 @@ Use estrutura JSON no (No Body) in Insomnia
 
 **Método DEL** - Nome da requisição: Deleta o projeto
 
-http://localhost:3000/projects/1
+Url da requisição: http://localhost:3000/projects/1
 
-*Após os dois pontos pode se testar com outras informações, não esqueça de inseri lás entre aspas duplas "exemplo".
+
+*Após os dois pontos pode se testar com outras informações, não esqueça de inseri lás entre aspas duplas {"title":"exemplo"}.
+
+*Para editar alguma informação troque o número na url. Exemplo crio dois projetos e quer editar o projeto de id 2 então ficará assim: PUT ➡️ http://localhost:3000/projects/**2**
