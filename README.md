@@ -11,7 +11,7 @@ Para testar precisará rodar o comando yarn dentro do diretório para instalar a
 
 Url da requisição: http://localhost:3000
 
-Use estrutura JSON no Insomnia, utilize a confiração de url abaixo ou outra porta, não esqueça de troca no script também. 
+Use estrutura JSON no Insomnia, utilize a confiração de url abaixo ou outra porta, não esqueça de trocar no script também. 
 
 
 **Método POST** - Nome da requisição: Cria um novo projeto
