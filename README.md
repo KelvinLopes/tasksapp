@@ -69,4 +69,4 @@ Url da requisição: http://localhost:3000/projects/1
 
 *Após os dois pontos pode se testar com outras informações, não esqueça de inseri lás entre aspas duplas {"title":"exemplo"}.
 
-*Para editar alguma informação troque o número na url. Exemplo crio dois projetos e quer editar o projeto de id 2 então ficará assim: PUT ➡️ http://localhost:3000/projects/**2**
+*Para editar alguma informação ou deletar um projeto, troque o número na url. Exemplo criou dois projetos e quer editar o projeto de id 2 então ficará assim: PUT ➡️ http://localhost:3000/projects/**2**
