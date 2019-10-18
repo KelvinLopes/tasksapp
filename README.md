@@ -1,7 +1,7 @@
 # App task 🚀
 
 
-Um app em Node e Express para guardar e organizar projetos. Foi meu primeiro desafio realizado na goStack 9  Bootcamp Rockseat.
+Um app em Node e Express para guardar e organizar projetos. Foi meu primeiro desafio realizado na goStack 9  Bootcamp Rocketseat.
 
 Abaixo estão sugestões de rotas que poderão ser usadas no Insomnia.
 
