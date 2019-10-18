@@ -3,7 +3,7 @@
 
 Um app em Node e Express para guardar e organizar projetos. Foi meu primeiro desafio realizado na goStack 9  Bootcamp Rockseat.
 
-Abaixo estão sugestões de rotas que pode sem usadas no Insomnia.
+Abaixo estão sugestões de rotas que podem sem usadas no Insomnia.
 
 Para testar precisará rodar o comando yarn dentro do diretório para instalar as dependências, no terminal acesse o diretório do app e execute o comando yarn dev, carregará o projeto no localhost na porta configurada, precisará do Insomnia para ver o funcionamento, pode se usar as configurações listadas abaixo:
 
